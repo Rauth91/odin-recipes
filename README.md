@@ -1,1 +1,1 @@
-# odin-recipes
+This HTML will be my first project. I will be creating a recipe book. The skills I have is of a beginner with little knowledge on how to code.
